@@ -1,5 +1,5 @@
 {
-  "name": "eboda/magento-rce-as-a-service",
+  "name": "eboda/module-rce",
   "description": "RCE for magento 2",
   "type": "magento2-module",
   "version": "1.0.0",
