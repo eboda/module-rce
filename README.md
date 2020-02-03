@@ -1,1 +1,1 @@
-# magento-rce-as-a-service
+# rce
